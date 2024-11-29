@@ -1,0 +1,4 @@
+# .npmignore
+test/
+.github/
+node_modules/

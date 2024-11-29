@@ -1,0 +1,12 @@
+{
+  "name": "codingforthai",
+  "version": "1.0.0",
+  "description": "A playful npm package demonstrating software licensing for Thai developers",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Tobias Meixner",
+  "keywords": ["thai", "coding", "education", "license-demo"],
+  "scripts": {
+    "test": "echo 'Ram Thai dance initiated!'"
+  }
+}
